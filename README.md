@@ -10,6 +10,6 @@
 
 --🎲 The player can choose to hold, which meansthat his round score gets add added to it's global score.After that. it's the next player turn 🎲
 
---🎲 🎖️the First player to get 50 points will be the winner of this game.🏆 🎖️
+--🎲 🎖️the First player to get 20 points will be the winner of this game.🏆 🎖️
 
 --🎲 And then, click new game to play another game
