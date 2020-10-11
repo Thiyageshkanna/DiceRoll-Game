@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");
+/* google font */
+
+body {
+  background: url(Images/back.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 100%;
+}
+#middle {
+  height: 88vh;
+  border-radius: 36px;
+  background: linear-gradient(145deg, #ffe5e5, #e6c1c1);
+  box-shadow: 10px 10px 20px #665656, -10px -10px 20px #ffffff;
+}
+#current {
+  background-color: #fc427b;
+  margin-top: 160px !important;
+  min-width: 15vw !important;
+}
+#size {
+  font-weight: bold;
+  font-size: 2em !important;
+}
+.roll-dice-img {
+  height: 40px;
+  margin-right: 8px;
+}
+a:hover {
+  text-decoration: none !important;
+}
+.roll-dice {
+  margin-top: 80px;
+}
+.hold-img {
+  height: 40px;
+  margin-right: 8px;
+}
+.hold {
+  margin-top: 50px;
+  color: pink;
+}
+#dot-0,
+#dot-1 {
+  height: 15px;
+}
+#dice-img {
+  height: auto !important;
+  margin-top: 100px;
+  position: relative;
+}
+.abcd {
+  display: inline-block;
+  width: 15px;
+  height: 20px;
+  background: red;
+
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 70px;
+  border-radius: 70px;
+}
+.winner {
+  color: green;
+  font-family: "Sansita Swashed", cursive;
+  font-weight: 900;
+}
